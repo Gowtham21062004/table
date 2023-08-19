@@ -5,6 +5,7 @@ table,td,th{
 }
 body{
     background-image: url(./images.jpg);
+    background-repeat: no-repeat;
 }
 .ab{
     padding-left: 600px;
